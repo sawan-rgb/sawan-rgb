@@ -3,7 +3,6 @@
 ### Hi there 👋
 (https://www.linkedin.com/in/sawan-suthar-27969b16a/)
 
-<!--
 **sawan-rgb/sawan-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 `I am sawan suthar. I am recently graduated from IIT Ism Dhanbad in mechanical Engg.`
 `I am learning Machine learning and Data science. I have also knowledge of Vba, mysql`
